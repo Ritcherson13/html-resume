@@ -13,6 +13,17 @@ body {
     padding-bottom: 20px;
 }
 
+.table {
+    margin: 50px;
+}
+
+.images {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
 img {
     width: 200px;
     height: 200px;
